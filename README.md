@@ -35,6 +35,8 @@ In this mode you will gain extra time for deleting blocks and points added, you 
 | Dpad | Select menu's, Move cursor during game play|
 | A or START or X or Y| Confirm in menus, Select a block |
 | B | Back in menu, gametype selector and game |
+| L | Decrease Volume |
+| R | Increase Volume |
 
 ## Credits
 Game Remake Created by Willems Davy, Original game by Nick Kouvaris. The original flash game is still available on [wayback machine](https://web.archive.org/web/20090220141735/http://lightforce.freestuff.gr/znax.php)
