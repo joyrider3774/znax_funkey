@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Znax
+Comment=A Connect 4 Style arcade / puzzle game
+Terminal=false
+Type=Application
+Exec=znax
+Icon=graphics/znax
+Categories=games
